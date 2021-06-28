@@ -3,6 +3,7 @@ MIS41250: Using artificial techniques (neural networks and linear regression) to
 
 Run notebooks in the following order.
 
-1. Data_Scraping
-2. Data_Prep&Analysis
-3. AI_Models
+000_Data_Scraping (Run all notebooks to scrape required data)
+100_Join_Analysis
+200_NotNormalized
+300_Normalized
